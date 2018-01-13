@@ -1,0 +1,165 @@
+.bajartitulo{
+	margin-bottom: 5%;
+	margin-top: 10%;
+}
+
+.margenboton{
+    margin-top: 2%;
+}
+.margenentretipos1{
+	margin-top: 10%;
+}
+
+.margenentretipos2{
+    margin-top: 2%;
+}
+
+.margenentretipos3{
+    margin-top: 7%;
+}
+
+.margenbottomtitulos{
+	margin-bottom: 3%;
+}
+
+.tipoletra{
+	font-family: italic;
+    font-weight: bold;
+    color:#000;
+}
+
+.tamanotitulo{
+	font-size: 28;
+}
+
+.margencabeceras{
+	margin-top: 3%;
+    padding-right: 7%;
+}
+
+.moverimagenderecha{
+	margin-left: 10%;
+    margin-top: 0.5%;
+}
+
+.section{
+        height: 100%;
+        background-image: url(../multimedia/cotta.jpg);
+}
+
+.section2{
+    height: 195%;
+    background-image: url(../multimedia/segundos.jpg);
+    overflow: hidden;
+}
+
+
+nav.cambiarbarra{
+	width:100%;
+	overflow: hidden;
+	background: #24252f;
+	margin-bottom: 20px;
+	position: fixed;
+	z-index: 1000;
+}
+
+a.cambiarbarra{
+	color:#fff;
+}
+
+.footer{
+    background-color: #24252f;
+    padding: 5% 0 0;
+    position: absolute;
+    margin-top: -10.1%;
+    margin-bottom: 0%;
+    width: 100%;
+    height:75%;
+}
+
+.volverarriba{
+    left: 0;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: -4.5%;
+}
+
+.volverarriba #volverarriba{
+    background-color: #383947;
+    background-image: url(../multimedia/backtop.png);
+    background-position: center center;
+        background-position-x: center;
+        background-position-y: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    display: inline-block;
+    height: 58px;
+    text-align: center;
+    width: 58px;
+}
+
+.footerlogo{
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.itemsfooter{
+    padding-right: 8%;
+    padding-left: 10%;
+    float: left;
+    color: #fff;
+}
+
+.colocacion{
+    padding-right: 5%;
+    padding-left: 5%;
+    float: left;
+    color: #fff;
+}
+
+.direccion{
+    margin-top: 12%;
+    font-style: normal;
+    line-height: 2;
+}
+
+.horario{
+    margin-top: 12%;
+    color: #4f5167;
+
+}
+.blanco{
+    color: #fff;
+}
+
+.letratitulos{
+    font-size: 30;
+}
+
+.margenentretipossopas{
+    margin-top: 2%;
+}
+
+.margenentretipossegplatos{
+     margin-top: 2%;
+}
+
+.margenentrepostres{
+    margin-top: 2%;
+}
+
+.bandera{
+    height: 7%;
+    width: 3.5%;
+}
+
+.posicionbandera{
+
+ margin-top: 2%;
+}
+
+.moverboton{
+
+    margin-top:-1%;
+}
