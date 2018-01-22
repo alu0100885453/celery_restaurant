@@ -41,3 +41,23 @@ Para este proyecto usamos MySql con la ayuda de phpMyAdmin. Nos apoyamos en 4 ta
 - Pedidos: almacena los pedidos mediante el DNI de las persona y los productos selecionados.
 - Reservas: almacena la fecha, la hora, la cantidad de personas a comer, observaciones y DNI (si se esta logeado).
 - Consultas: almacena datos y el mensaje al contactar con la página.
+
+
+### Método de trabajo
+
+Para la realización de este proyecto hemos trabajado reuniéndonos los 3 participantes para poder ayudarnos los unos a los otros, pero cada uno tenía una función específica de la cual se debía encargar. Siendo uno el encargado de realizar y administrar la base de datos y los otros dos participantes se han encargado del desarrollo de la interfaz web.
+
+
+### Mejoras tras presentación del día 12/01/18
+
+Como se nos comentó el día de la presentación, hemos añadido algunas mejoras a la aplicación web. Ahora el usuario tiene la opción de ver la última reserva realizada además de poder cancearla si así lo desea. De la misma manera, si se es un empleado del restaurante y se accede a la página como tal, en el apartado de reservas se podrá comprobar las diferentes reservas que tiene el restaurante para ese día y los dos días sucesivos.
+
+Además, se ha añadido la opción de que un usuario no pueda realizar una reserva si ya existen 10 para ese día.
+
+Como ejemplo de empleado del restaurante, puede accerder con el siguiente usuario:
+
+Correo: empleado@restaurante.com
+Contraseña:empleado
+
+
+Al entrar a la página, ha de omitirse el https inicial, de lo contrario el contenido no se cargará correctamente.
