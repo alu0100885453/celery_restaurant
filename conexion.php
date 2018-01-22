@@ -29,7 +29,6 @@
 	$BaseDatos = "bbdd_restaurante";
 
 
-
 		// Creamos la conexión y almacenamos el handle
 
 

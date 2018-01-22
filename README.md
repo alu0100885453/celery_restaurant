@@ -31,3 +31,13 @@ En esta pestaña, el usuario podrá ponerse en contacto con el restaurante para 
 ### Iniciar sesión/Registrarse [enlace](identificarse.php)
 
 El usuario podrá acceder a su cuenta o, en caso de no poseer una, podrá, si lo desea, registrarse para poder en un futuro realizar pedidos al restaurante.
+
+
+### Base de Datos
+
+Para este proyecto usamos MySql con la ayuda de phpMyAdmin. Nos apoyamos en 4 tablas:
+
+- Usuarios: contiene datos de los usuarios registrados: nombre, dni , email ... Si el usuario es un miembro del staff tendrá un una categoría especial que le permitirá acceder a zonas privadas de la página.
+- Pedidos: almacena los pedidos mediante el DNI de las persona y los productos selecionados.
+- Reservas: almacena la fecha, la hora, la cantidad de personas a comer, observaciones y DNI (si se esta logeado).
+- Consultas: almacena datos y el mensaje al contactar con la página.
