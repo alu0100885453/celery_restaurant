@@ -1,4 +1,7 @@
-# Guía de usuario para la página [inicio](index.php)
+# Pagina en 000webhost: [gabrielfernandezca.000webhostapp.com](gabrielfernandezca.000webhostapp.com)
+
+
+## Guía de usuario para la página [inicio](index.php)
 
 Al entrar a la página del restaurante, lo primero que el usuario se encontrará será un inicio en donde podrá acceder a otras características como el menu o las reservas, entre otros. Además de encontrar a pie de página información acerca del restaurante. Desde aquí, ademas de a los ya nombrados, el usurio podrás accerder a diferentes lugares en donde podrá iniciar sesión, realizar un pedido al restaurante o ponerse en contacto con el mismo mediante el envío de un mensaje. Desde la propia página de inicio de sesión, si el usuario no tiene cuenta previa, podrá acceder para registrarse y de esa manera poder realizar pedidos en un futuro, ya que si un usuario no se ha registrado previamente, esta opción no estará disponible.
 
