@@ -28,7 +28,7 @@ En esta pestaña, el usuario podrá ponerse en contacto con el restaurante para 
 
 
 
-### [Iniciar sesión](identificarse.php) /Registrarse
+### [Iniciar sesión](identificarse.php) / [Registrarse](registro.html)
 
 El usuario podrá acceder a su cuenta o, en caso de no poseer una, podrá, si lo desea, registrarse para poder en un futuro realizar pedidos al restaurante.
 
