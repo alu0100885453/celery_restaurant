@@ -1,4 +1,4 @@
-# Pagina en 000webhost: [gabrielfernandezca.000webhostapp.com](http://www.gabrielfernandezca.000webhostapp.com)
+# Pagina en 000webhost: [gabrielfernandezca.000webhostapp.com](http://gabrielfernandezca.000webhostapp.com)
 
 
 ## Guía de usuario para la página [inicio](index.php)
